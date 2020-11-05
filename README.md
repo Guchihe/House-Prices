@@ -1474,3 +1474,4 @@ solution.head()
   </tbody>
 </table>
 </div>
+Note that the predictions are very similar, despite the penalization term on the Lasso and Ridge models, so remains to check out what happens when the value of alpha changes.
