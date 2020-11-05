@@ -1022,7 +1022,7 @@ plt.show()
 
 ![png](output_27_0.png)
 
-
+We can see from the graphs, that the behavior of the Training and Testing Data are very similar using the most correlated features with 'SalePrice', so we can say that the model is acceptable, though clearly this can be improve.
 ***
 
 ### 2.2 Ridge Model.
